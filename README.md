@@ -1,4 +1,4 @@
-# Shell Script 
+# ~$hell Script:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,6 +19,11 @@
             <td align="center">Number</td>
             <td align="center">Name</td>
             <td align="center">Description</td>
+        </tr>
+        <tr> 
+            <td align="center"></td>
+            <td align="center"></td>
+            <td align="center"></td>
         </tr>
     </table>
     </body>
