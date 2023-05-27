@@ -13,7 +13,7 @@
        </p>
        <br>
        <br>
-    <h1 align="center"> Algorithms - Projects using C++ </h1>
+    <h1 align="center"> Projects </h1>
     <table align ="center" border="1">
         <tr> 
             <td align="center">Number</td>
